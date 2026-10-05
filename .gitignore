@@ -5,7 +5,6 @@
 build
 
 # Local NATT test files
-NATT.jar
 natt-logs/
 pid-list.txt
 test_report.html
